@@ -1,0 +1,14 @@
+or create a new repository on the command line
+============================================
+echo "# ITMOx-I2CPx-How-to-win-coding-competitions-secrets-of-champions" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:nithinap/ITMOx-I2CPx-How-to-win-coding-competitions-secrets-of-champions.git
+git push -u origin master
+
+Push existing repo from command line
+===========================================
+
+git remote add origin git@github.com:nithinap/ITMOx-I2CPx-How-to-win-coding-competitions-secrets-of-champions.git
+git push -u origin master
